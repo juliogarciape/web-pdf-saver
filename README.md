@@ -147,9 +147,13 @@ web-pdf-saver
 │   └── ...
 ```
 
+## Project Background :bulb:
+
+When a well-known website was about to shut down, I created this app to preserve its valuable content, as saving the large number of pages manually was impractical.
+
 ## License :scroll:
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
 
 ## Contact :email:
 
