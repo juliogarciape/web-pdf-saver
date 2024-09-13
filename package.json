@@ -1,0 +1,30 @@
+{
+  "name": "web-pdf-saver",
+  "version": "1.0.0",
+  "description": "Save a web page as a PDF file using Puppeteer",
+  "main": "./src/index.js",
+  "author": "Julio Cesar Garcia <dev.juliogarciape@gmail.com>",
+  "type": "module",
+  "private": true,
+  "license": "MIT",
+  "scripts": {
+    "start": "node ./src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Puppeteer",
+    "PDF",
+    "Web Page",
+    "Pdf Saver"
+  ],
+  "dependencies": {
+    "puppeteer": "23.3.0"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/juliogarciape/web-pdf-saver.git"
+  }
+}
