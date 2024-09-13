@@ -36,7 +36,7 @@ The application uses **Puppeteer** to generate PDFs from web pages.
 
 If the web page requires authentication, you can provide the credentials. The directory `src/storage` contains the files `cookies.json` and `localStorage.json`, which store the cookie information and local storage data, respectively.
 
-```json
+```javascript
 /* src/storage/cookies.json */
 
 [
